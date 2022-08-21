@@ -17,7 +17,7 @@ function buildTable(data) {
             cell.text(val);
         });
     });
-}
+};
 // New function to handle filter.
 function handleClick() {
     // Grab the datetime value from the filter
