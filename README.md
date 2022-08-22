@@ -9,8 +9,7 @@ In the app.js file, the code was updated where instead of the user pressing a bu
 
 ## Results
 
-### Extra Filters Added and Button Removed.
-### Full Table Is Displayed.
+### Extra Filters Added and Button Removed.  Full Table Is Displayed.
 ![filteredtable](https://user-images.githubusercontent.com/106561880/185832416-f24cdb24-80cb-4b48-8150-5a647712b97e.png)
 
 
