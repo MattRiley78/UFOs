@@ -11,9 +11,11 @@ In the app.js file, the code was updated where instead of the user pressing a bu
 
 ### Extra Filters Added and Button Removed.
 ### Full Table Is Displayed.
+![filteredtable](https://user-images.githubusercontent.com/106561880/185832416-f24cdb24-80cb-4b48-8150-5a647712b97e.png)
 
 
 ### Example of User Input and Filtered Table
+![filteredtable2](https://user-images.githubusercontent.com/106561880/185832423-b125ee74-bdc6-4d54-bf1c-0cb217a0ffcf.png)
 
 
 
